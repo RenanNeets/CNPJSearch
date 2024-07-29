@@ -1,0 +1,14 @@
+PROJETO INCOMPLETO
+
+Proposta do projeto:
+	Preciso do seguinte, um bot que faça o acesso a um site da 
+	prefeitura do meu munícipio por meio de um login que é o meu CPF e uma senha
+	feito isso dentro de um determinado campo ele preencha o CNPJ de um cliente
+	para a entrega na área de acesso dele, que ele vá até um menu específico 
+	de nota fiscal e que faça o download dos xml quando o recibo de entrega da
+	declaração de serviço numa pasta específica no dropbox, criando uma pasta
+	com um nome específico para posterior importação, feito isso ele selecionará
+	o menu e digitará o próximo CNPJ e repede o processo
+
+Usando as tecnologias: PysimpleGUI
+Roda o comando "pip install pysimplegui" no cmd da própria pasta
